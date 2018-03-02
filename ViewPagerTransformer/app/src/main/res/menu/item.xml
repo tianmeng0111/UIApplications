@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/go_activity2"
+        android:showAsAction="always"
+        android:title="go activity2"
+        tools:ignore="AppCompatResource" />
+    <item
+        android:id="@+id/go_activity3"
+        android:showAsAction="always"
+        android:title="go activity3"
+        tools:ignore="AppCompatResource" />
+</menu>
